@@ -1,4 +1,4 @@
-This RP CHAT create for Fortis RolePlay on QBUS Framework
+This RP CHAT create for Fortis RolePlay on QB-CORE Framework
 
 **REQUIREMENTS**
 
